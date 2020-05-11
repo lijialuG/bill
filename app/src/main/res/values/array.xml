@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner">
+        <item>类型</item>
+        <item>备注</item>
+        <item>时间</item>
+        <item>金额</item>
+    </string-array>
+</resources>
